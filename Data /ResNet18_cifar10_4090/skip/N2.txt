@@ -1,0 +1,201 @@
+Epoch 1/100
+368/368 [==============================] - 17s 37ms/step - loss: 1.6260 - sparse_categorical_accuracy: 0.5450 - val_loss: 1.8297 - val_sparse_categorical_accuracy: 0.4804
+Epoch 2/100
+368/368 [==============================] - 13s 35ms/step - loss: 1.0603 - sparse_categorical_accuracy: 0.7301 - val_loss: 1.6792 - val_sparse_categorical_accuracy: 0.5723
+Epoch 3/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.8476 - sparse_categorical_accuracy: 0.7937 - val_loss: 1.8023 - val_sparse_categorical_accuracy: 0.5330
+Epoch 4/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.7235 - sparse_categorical_accuracy: 0.8340 - val_loss: 1.0398 - val_sparse_categorical_accuracy: 0.7371
+Epoch 5/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.6471 - sparse_categorical_accuracy: 0.8603 - val_loss: 1.1153 - val_sparse_categorical_accuracy: 0.7290
+Epoch 6/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.5812 - sparse_categorical_accuracy: 0.8872 - val_loss: 0.9224 - val_sparse_categorical_accuracy: 0.7887
+Epoch 7/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.5452 - sparse_categorical_accuracy: 0.9042 - val_loss: 1.4242 - val_sparse_categorical_accuracy: 0.6517
+Epoch 8/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.5195 - sparse_categorical_accuracy: 0.9189 - val_loss: 1.0903 - val_sparse_categorical_accuracy: 0.7593
+Epoch 9/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.4965 - sparse_categorical_accuracy: 0.9323 - val_loss: 1.0940 - val_sparse_categorical_accuracy: 0.7739
+Epoch 10/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.4869 - sparse_categorical_accuracy: 0.9392 - val_loss: 1.0194 - val_sparse_categorical_accuracy: 0.7953
+Epoch 11/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.4640 - sparse_categorical_accuracy: 0.9482 - val_loss: 1.4396 - val_sparse_categorical_accuracy: 0.7105
+Epoch 12/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.4777 - sparse_categorical_accuracy: 0.9497 - val_loss: 1.0067 - val_sparse_categorical_accuracy: 0.8042
+Epoch 13/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.4516 - sparse_categorical_accuracy: 0.9580 - val_loss: 1.7336 - val_sparse_categorical_accuracy: 0.6848
+Epoch 14/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.4645 - sparse_categorical_accuracy: 0.9559 - val_loss: 1.0650 - val_sparse_categorical_accuracy: 0.8001
+Epoch 15/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.4422 - sparse_categorical_accuracy: 0.9641 - val_loss: 1.3145 - val_sparse_categorical_accuracy: 0.7439
+Epoch 16/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.4543 - sparse_categorical_accuracy: 0.9623 - val_loss: 1.1757 - val_sparse_categorical_accuracy: 0.7819
+Epoch 17/100
+368/368 [==============================] - 13s 36ms/step - loss: 0.4524 - sparse_categorical_accuracy: 0.9630 - val_loss: 1.0981 - val_sparse_categorical_accuracy: 0.7994
+Epoch 18/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.4312 - sparse_categorical_accuracy: 0.9698 - val_loss: 1.8281 - val_sparse_categorical_accuracy: 0.6891
+Epoch 19/100
+368/368 [==============================] - 12s 34ms/step - loss: 0.4412 - sparse_categorical_accuracy: 0.9668 - val_loss: 1.3652 - val_sparse_categorical_accuracy: 0.7460
+Epoch 20/100
+368/368 [==============================] - 12s 34ms/step - loss: 0.4431 - sparse_categorical_accuracy: 0.9666 - val_loss: 1.2898 - val_sparse_categorical_accuracy: 0.7757
+Epoch 21/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.4369 - sparse_categorical_accuracy: 0.9700 - val_loss: 1.3831 - val_sparse_categorical_accuracy: 0.7413
+Epoch 22/100
+368/368 [==============================] - 13s 36ms/step - loss: 0.4416 - sparse_categorical_accuracy: 0.9696 - val_loss: 1.1244 - val_sparse_categorical_accuracy: 0.7972
+Epoch 23/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.4177 - sparse_categorical_accuracy: 0.9750 - val_loss: 1.5122 - val_sparse_categorical_accuracy: 0.7404
+Epoch 24/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.4289 - sparse_categorical_accuracy: 0.9716 - val_loss: 1.2284 - val_sparse_categorical_accuracy: 0.7784
+Epoch 25/100
+368/368 [==============================] - 13s 36ms/step - loss: 0.4270 - sparse_categorical_accuracy: 0.9733 - val_loss: 1.2062 - val_sparse_categorical_accuracy: 0.7961
+Epoch 26/100
+368/368 [==============================] - 13s 36ms/step - loss: 0.4290 - sparse_categorical_accuracy: 0.9728 - val_loss: 1.2207 - val_sparse_categorical_accuracy: 0.7699
+Epoch 27/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.4430 - sparse_categorical_accuracy: 0.9702 - val_loss: 1.2743 - val_sparse_categorical_accuracy: 0.7786
+Epoch 28/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.4230 - sparse_categorical_accuracy: 0.9760 - val_loss: 1.2160 - val_sparse_categorical_accuracy: 0.7854
+Epoch 29/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.4079 - sparse_categorical_accuracy: 0.9789 - val_loss: 1.4965 - val_sparse_categorical_accuracy: 0.7364
+Epoch 30/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.4180 - sparse_categorical_accuracy: 0.9754 - val_loss: 1.0989 - val_sparse_categorical_accuracy: 0.8000
+Epoch 31/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.4299 - sparse_categorical_accuracy: 0.9733 - val_loss: 1.1386 - val_sparse_categorical_accuracy: 0.8106
+Epoch 32/100
+368/368 [==============================] - 13s 34ms/step - loss: 0.4088 - sparse_categorical_accuracy: 0.9781 - val_loss: 1.1152 - val_sparse_categorical_accuracy: 0.8017
+Epoch 33/100
+368/368 [==============================] - 12s 33ms/step - loss: 0.4244 - sparse_categorical_accuracy: 0.9744 - val_loss: 1.1083 - val_sparse_categorical_accuracy: 0.8029
+Epoch 34/100
+368/368 [==============================] - 12s 33ms/step - loss: 0.3981 - sparse_categorical_accuracy: 0.9807 - val_loss: 1.1943 - val_sparse_categorical_accuracy: 0.7871
+Epoch 35/100
+368/368 [==============================] - 12s 34ms/step - loss: 0.3937 - sparse_categorical_accuracy: 0.9794 - val_loss: 1.2277 - val_sparse_categorical_accuracy: 0.7902
+Epoch 36/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.3977 - sparse_categorical_accuracy: 0.9782 - val_loss: 1.3800 - val_sparse_categorical_accuracy: 0.7680
+Epoch 37/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.4026 - sparse_categorical_accuracy: 0.9774 - val_loss: 1.3968 - val_sparse_categorical_accuracy: 0.7448
+Epoch 38/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.4061 - sparse_categorical_accuracy: 0.9763 - val_loss: 1.1719 - val_sparse_categorical_accuracy: 0.7929
+Epoch 39/100
+368/368 [==============================] - 13s 36ms/step - loss: 0.3970 - sparse_categorical_accuracy: 0.9787 - val_loss: 1.2954 - val_sparse_categorical_accuracy: 0.7630
+Epoch 40/100
+368/368 [==============================] - 13s 36ms/step - loss: 0.3949 - sparse_categorical_accuracy: 0.9795 - val_loss: 1.1135 - val_sparse_categorical_accuracy: 0.8044
+Epoch 41/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.3778 - sparse_categorical_accuracy: 0.9830 - val_loss: 1.1503 - val_sparse_categorical_accuracy: 0.8006
+Epoch 42/100
+368/368 [==============================] - 13s 36ms/step - loss: 0.3885 - sparse_categorical_accuracy: 0.9781 - val_loss: 1.4994 - val_sparse_categorical_accuracy: 0.7504
+Epoch 43/100
+368/368 [==============================] - 13s 36ms/step - loss: 0.3994 - sparse_categorical_accuracy: 0.9769 - val_loss: 1.1411 - val_sparse_categorical_accuracy: 0.7988
+Epoch 44/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.3730 - sparse_categorical_accuracy: 0.9832 - val_loss: 1.1168 - val_sparse_categorical_accuracy: 0.8122
+Epoch 45/100
+368/368 [==============================] - 13s 36ms/step - loss: 0.3824 - sparse_categorical_accuracy: 0.9799 - val_loss: 1.1663 - val_sparse_categorical_accuracy: 0.7964
+Epoch 46/100
+368/368 [==============================] - 13s 36ms/step - loss: 0.3892 - sparse_categorical_accuracy: 0.9780 - val_loss: 1.1020 - val_sparse_categorical_accuracy: 0.8127
+Epoch 47/100
+368/368 [==============================] - 13s 36ms/step - loss: 0.3801 - sparse_categorical_accuracy: 0.9806 - val_loss: 1.1745 - val_sparse_categorical_accuracy: 0.7903
+Epoch 48/100
+368/368 [==============================] - 13s 36ms/step - loss: 0.3656 - sparse_categorical_accuracy: 0.9841 - val_loss: 1.2427 - val_sparse_categorical_accuracy: 0.7893
+Epoch 49/100
+368/368 [==============================] - 13s 36ms/step - loss: 0.3698 - sparse_categorical_accuracy: 0.9814 - val_loss: 1.1801 - val_sparse_categorical_accuracy: 0.7978
+Epoch 50/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.3894 - sparse_categorical_accuracy: 0.9775 - val_loss: 1.1437 - val_sparse_categorical_accuracy: 0.7969
+Epoch 51/100
+368/368 [==============================] - 13s 36ms/step - loss: 0.3645 - sparse_categorical_accuracy: 0.9834 - val_loss: 1.3215 - val_sparse_categorical_accuracy: 0.7733
+Epoch 52/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.3602 - sparse_categorical_accuracy: 0.9827 - val_loss: 1.0596 - val_sparse_categorical_accuracy: 0.8130
+Epoch 53/100
+368/368 [==============================] - 13s 36ms/step - loss: 0.3603 - sparse_categorical_accuracy: 0.9816 - val_loss: 1.1416 - val_sparse_categorical_accuracy: 0.7945
+Epoch 54/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.3571 - sparse_categorical_accuracy: 0.9826 - val_loss: 1.1608 - val_sparse_categorical_accuracy: 0.7972
+Epoch 55/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.3602 - sparse_categorical_accuracy: 0.9811 - val_loss: 1.0445 - val_sparse_categorical_accuracy: 0.8149
+Epoch 56/100
+368/368 [==============================] - 13s 36ms/step - loss: 0.3606 - sparse_categorical_accuracy: 0.9820 - val_loss: 1.0867 - val_sparse_categorical_accuracy: 0.8182
+Epoch 57/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.3589 - sparse_categorical_accuracy: 0.9812 - val_loss: 1.0950 - val_sparse_categorical_accuracy: 0.8090
+Epoch 58/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.3598 - sparse_categorical_accuracy: 0.9815 - val_loss: 1.0697 - val_sparse_categorical_accuracy: 0.8120
+Epoch 59/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.3444 - sparse_categorical_accuracy: 0.9847 - val_loss: 1.0505 - val_sparse_categorical_accuracy: 0.8189
+Epoch 60/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.3433 - sparse_categorical_accuracy: 0.9834 - val_loss: 1.2827 - val_sparse_categorical_accuracy: 0.7753
+Epoch 61/100
+368/368 [==============================] - 13s 36ms/step - loss: 0.3426 - sparse_categorical_accuracy: 0.9841 - val_loss: 1.2030 - val_sparse_categorical_accuracy: 0.7938
+Epoch 62/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.3354 - sparse_categorical_accuracy: 0.9852 - val_loss: 1.1526 - val_sparse_categorical_accuracy: 0.8032
+Epoch 63/100
+368/368 [==============================] - 13s 36ms/step - loss: 0.3561 - sparse_categorical_accuracy: 0.9797 - val_loss: 1.1688 - val_sparse_categorical_accuracy: 0.7924
+Epoch 64/100
+368/368 [==============================] - 13s 36ms/step - loss: 0.3448 - sparse_categorical_accuracy: 0.9832 - val_loss: 1.0503 - val_sparse_categorical_accuracy: 0.8188
+Epoch 65/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.3367 - sparse_categorical_accuracy: 0.9840 - val_loss: 1.0011 - val_sparse_categorical_accuracy: 0.8264
+Epoch 66/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.3204 - sparse_categorical_accuracy: 0.9874 - val_loss: 1.0661 - val_sparse_categorical_accuracy: 0.8133
+Epoch 67/100
+368/368 [==============================] - 13s 36ms/step - loss: 0.3348 - sparse_categorical_accuracy: 0.9823 - val_loss: 1.1901 - val_sparse_categorical_accuracy: 0.7928
+Epoch 68/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.3383 - sparse_categorical_accuracy: 0.9834 - val_loss: 1.1871 - val_sparse_categorical_accuracy: 0.7884
+Epoch 69/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.3326 - sparse_categorical_accuracy: 0.9837 - val_loss: 1.0809 - val_sparse_categorical_accuracy: 0.8082
+Epoch 70/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.3253 - sparse_categorical_accuracy: 0.9850 - val_loss: 1.0964 - val_sparse_categorical_accuracy: 0.8152
+Epoch 71/100
+368/368 [==============================] - 13s 36ms/step - loss: 0.3334 - sparse_categorical_accuracy: 0.9824 - val_loss: 1.1264 - val_sparse_categorical_accuracy: 0.8080
+Epoch 72/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.3378 - sparse_categorical_accuracy: 0.9828 - val_loss: 0.9632 - val_sparse_categorical_accuracy: 0.8280
+Epoch 73/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.3143 - sparse_categorical_accuracy: 0.9879 - val_loss: 1.0636 - val_sparse_categorical_accuracy: 0.8075
+Epoch 74/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.3239 - sparse_categorical_accuracy: 0.9836 - val_loss: 1.1169 - val_sparse_categorical_accuracy: 0.8097
+Epoch 75/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.3227 - sparse_categorical_accuracy: 0.9845 - val_loss: 1.0410 - val_sparse_categorical_accuracy: 0.8256
+Epoch 76/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.3061 - sparse_categorical_accuracy: 0.9876 - val_loss: 1.1808 - val_sparse_categorical_accuracy: 0.7935
+Epoch 77/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.3269 - sparse_categorical_accuracy: 0.9819 - val_loss: 1.0827 - val_sparse_categorical_accuracy: 0.8000
+Epoch 78/100
+368/368 [==============================] - 13s 36ms/step - loss: 0.3165 - sparse_categorical_accuracy: 0.9852 - val_loss: 1.1152 - val_sparse_categorical_accuracy: 0.8005
+Epoch 79/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.3108 - sparse_categorical_accuracy: 0.9856 - val_loss: 0.9593 - val_sparse_categorical_accuracy: 0.8290
+Epoch 80/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.3098 - sparse_categorical_accuracy: 0.9854 - val_loss: 1.0472 - val_sparse_categorical_accuracy: 0.8223
+Epoch 81/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.3027 - sparse_categorical_accuracy: 0.9861 - val_loss: 0.9676 - val_sparse_categorical_accuracy: 0.8304
+Epoch 82/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.3115 - sparse_categorical_accuracy: 0.9838 - val_loss: 1.1453 - val_sparse_categorical_accuracy: 0.7952
+Epoch 83/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.3167 - sparse_categorical_accuracy: 0.9835 - val_loss: 1.0745 - val_sparse_categorical_accuracy: 0.8117
+Epoch 84/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.2936 - sparse_categorical_accuracy: 0.9887 - val_loss: 1.0066 - val_sparse_categorical_accuracy: 0.8236
+Epoch 85/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.2998 - sparse_categorical_accuracy: 0.9860 - val_loss: 1.0704 - val_sparse_categorical_accuracy: 0.8100
+Epoch 86/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.2992 - sparse_categorical_accuracy: 0.9854 - val_loss: 1.2293 - val_sparse_categorical_accuracy: 0.7839
+Epoch 87/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.2961 - sparse_categorical_accuracy: 0.9861 - val_loss: 1.2063 - val_sparse_categorical_accuracy: 0.7952
+Epoch 88/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.2888 - sparse_categorical_accuracy: 0.9872 - val_loss: 1.0665 - val_sparse_categorical_accuracy: 0.8101
+Epoch 89/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.2900 - sparse_categorical_accuracy: 0.9857 - val_loss: 1.3321 - val_sparse_categorical_accuracy: 0.7729
+Epoch 90/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.3078 - sparse_categorical_accuracy: 0.9818 - val_loss: 1.0316 - val_sparse_categorical_accuracy: 0.8118
+Epoch 91/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.2895 - sparse_categorical_accuracy: 0.9881 - val_loss: 0.9711 - val_sparse_categorical_accuracy: 0.8314
+Epoch 92/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.2945 - sparse_categorical_accuracy: 0.9853 - val_loss: 1.0084 - val_sparse_categorical_accuracy: 0.8134
+Epoch 93/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.2902 - sparse_categorical_accuracy: 0.9865 - val_loss: 1.1542 - val_sparse_categorical_accuracy: 0.8064
+Epoch 94/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.2892 - sparse_categorical_accuracy: 0.9860 - val_loss: 1.0474 - val_sparse_categorical_accuracy: 0.8200
+Epoch 95/100
+368/368 [==============================] - 13s 36ms/step - loss: 0.2901 - sparse_categorical_accuracy: 0.9858 - val_loss: 0.9963 - val_sparse_categorical_accuracy: 0.8135
+Epoch 96/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.2824 - sparse_categorical_accuracy: 0.9875 - val_loss: 0.9788 - val_sparse_categorical_accuracy: 0.8324
+Epoch 97/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.2885 - sparse_categorical_accuracy: 0.9849 - val_loss: 1.2107 - val_sparse_categorical_accuracy: 0.7971
+Epoch 98/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.2894 - sparse_categorical_accuracy: 0.9858 - val_loss: 0.9855 - val_sparse_categorical_accuracy: 0.8219
+Epoch 99/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.2839 - sparse_categorical_accuracy: 0.9862 - val_loss: 1.3754 - val_sparse_categorical_accuracy: 0.7721
+Epoch 100/100
+368/368 [==============================] - 13s 35ms/step - loss: 0.2853 - sparse_categorical_accuracy: 0.9861 - val_loss: 0.9566 - val_sparse_categorical_accuracy: 0.8214
+Click to add a cell.

@@ -1,0 +1,82 @@
+Epoch 1/40
+  5/391 [..............................] - ETA: 5s - loss: 4.5931 - accuracy: 0.0688       WARNING:tensorflow:Callback method `on_train_batch_end` is slow compared to the batch time (batch time: 0.0062s vs `on_train_batch_end` time: 0.0074s). Check your callbacks.
+391/391 [==============================] - 11s 20ms/step - loss: 2.2476 - accuracy: 0.1377 - val_loss: 1.9030 - val_accuracy: 0.2106
+Epoch 2/40
+391/391 [==============================] - 7s 18ms/step - loss: 1.7034 - accuracy: 0.3259 - val_loss: 1.5169 - val_accuracy: 0.4284
+Epoch 3/40
+391/391 [==============================] - 7s 18ms/step - loss: 1.3842 - accuracy: 0.4828 - val_loss: 1.2705 - val_accuracy: 0.5316
+Epoch 4/40
+391/391 [==============================] - 7s 18ms/step - loss: 1.1481 - accuracy: 0.5819 - val_loss: 1.0899 - val_accuracy: 0.6090
+Epoch 5/40
+391/391 [==============================] - 7s 18ms/step - loss: 0.9724 - accuracy: 0.6525 - val_loss: 0.9929 - val_accuracy: 0.6512
+Epoch 6/40
+391/391 [==============================] - 7s 18ms/step - loss: 0.8399 - accuracy: 0.7025 - val_loss: 0.9272 - val_accuracy: 0.6715
+Epoch 7/40
+391/391 [==============================] - 7s 19ms/step - loss: 0.7200 - accuracy: 0.7475 - val_loss: 0.8304 - val_accuracy: 0.7134
+Epoch 8/40
+391/391 [==============================] - 7s 19ms/step - loss: 0.6209 - accuracy: 0.7830 - val_loss: 0.8495 - val_accuracy: 0.7222
+Epoch 9/40
+391/391 [==============================] - 7s 19ms/step - loss: 0.5180 - accuracy: 0.8195 - val_loss: 0.7972 - val_accuracy: 0.7407
+Epoch 10/40
+391/391 [==============================] - 7s 19ms/step - loss: 0.4227 - accuracy: 0.8530 - val_loss: 0.8546 - val_accuracy: 0.7313
+Epoch 11/40
+391/391 [==============================] - 7s 19ms/step - loss: 0.3446 - accuracy: 0.8815 - val_loss: 0.8404 - val_accuracy: 0.7412
+Epoch 12/40
+391/391 [==============================] - 7s 19ms/step - loss: 0.2791 - accuracy: 0.9046 - val_loss: 0.9623 - val_accuracy: 0.7335
+Epoch 13/40
+391/391 [==============================] - 7s 19ms/step - loss: 0.2162 - accuracy: 0.9266 - val_loss: 0.9529 - val_accuracy: 0.7383
+Epoch 14/40
+391/391 [==============================] - 7s 19ms/step - loss: 0.1806 - accuracy: 0.9391 - val_loss: 1.0219 - val_accuracy: 0.7357
+Epoch 15/40
+391/391 [==============================] - 7s 18ms/step - loss: 0.1468 - accuracy: 0.9498 - val_loss: 0.9943 - val_accuracy: 0.7470
+Epoch 16/40
+391/391 [==============================] - 7s 18ms/step - loss: 0.1293 - accuracy: 0.9559 - val_loss: 1.2329 - val_accuracy: 0.7193
+Epoch 17/40
+391/391 [==============================] - 7s 18ms/step - loss: 0.1024 - accuracy: 0.9663 - val_loss: 1.1950 - val_accuracy: 0.7389
+Epoch 18/40
+391/391 [==============================] - 7s 18ms/step - loss: 0.0989 - accuracy: 0.9668 - val_loss: 1.1225 - val_accuracy: 0.7442
+Epoch 19/40
+391/391 [==============================] - 7s 18ms/step - loss: 0.0910 - accuracy: 0.9694 - val_loss: 1.2293 - val_accuracy: 0.7478
+Epoch 20/40
+391/391 [==============================] - 7s 18ms/step - loss: 0.0754 - accuracy: 0.9747 - val_loss: 1.2874 - val_accuracy: 0.7283
+Epoch 21/40
+391/391 [==============================] - 7s 18ms/step - loss: 0.0762 - accuracy: 0.9750 - val_loss: 1.2726 - val_accuracy: 0.7508
+Epoch 22/40
+391/391 [==============================] - 7s 18ms/step - loss: 0.0744 - accuracy: 0.9751 - val_loss: 1.1511 - val_accuracy: 0.7595
+Epoch 23/40
+391/391 [==============================] - 7s 18ms/step - loss: 0.0660 - accuracy: 0.9783 - val_loss: 1.2761 - val_accuracy: 0.7583
+Epoch 24/40
+391/391 [==============================] - 7s 18ms/step - loss: 0.0621 - accuracy: 0.9796 - val_loss: 1.2609 - val_accuracy: 0.7535
+Epoch 25/40
+391/391 [==============================] - 7s 18ms/step - loss: 0.0554 - accuracy: 0.9816 - val_loss: 1.3542 - val_accuracy: 0.7450
+Epoch 26/40
+391/391 [==============================] - 7s 18ms/step - loss: 0.0539 - accuracy: 0.9823 - val_loss: 1.2910 - val_accuracy: 0.7520
+Epoch 27/40
+391/391 [==============================] - 7s 18ms/step - loss: 0.0570 - accuracy: 0.9807 - val_loss: 1.2148 - val_accuracy: 0.7468
+Epoch 28/40
+391/391 [==============================] - 7s 18ms/step - loss: 0.0530 - accuracy: 0.9827 - val_loss: 1.2995 - val_accuracy: 0.7556
+Epoch 29/40
+391/391 [==============================] - 7s 18ms/step - loss: 0.0541 - accuracy: 0.9817 - val_loss: 1.1620 - val_accuracy: 0.7540
+Epoch 30/40
+391/391 [==============================] - 7s 18ms/step - loss: 0.0457 - accuracy: 0.9851 - val_loss: 1.3317 - val_accuracy: 0.7469
+Epoch 31/40
+391/391 [==============================] - 7s 18ms/step - loss: 0.0502 - accuracy: 0.9833 - val_loss: 1.3550 - val_accuracy: 0.7552
+Epoch 32/40
+391/391 [==============================] - 7s 18ms/step - loss: 0.0434 - accuracy: 0.9857 - val_loss: 1.4429 - val_accuracy: 0.7565
+Epoch 33/40
+391/391 [==============================] - 7s 18ms/step - loss: 0.0412 - accuracy: 0.9864 - val_loss: 1.4081 - val_accuracy: 0.7497
+Epoch 34/40
+391/391 [==============================] - 7s 18ms/step - loss: 0.0411 - accuracy: 0.9869 - val_loss: 1.3146 - val_accuracy: 0.7640
+Epoch 35/40
+391/391 [==============================] - 7s 18ms/step - loss: 0.0411 - accuracy: 0.9867 - val_loss: 1.3625 - val_accuracy: 0.7599
+Epoch 36/40
+391/391 [==============================] - 7s 18ms/step - loss: 0.0438 - accuracy: 0.9857 - val_loss: 1.3838 - val_accuracy: 0.7676
+Epoch 37/40
+391/391 [==============================] - 7s 18ms/step - loss: 0.0388 - accuracy: 0.9875 - val_loss: 1.2953 - val_accuracy: 0.7568
+Epoch 38/40
+391/391 [==============================] - 7s 18ms/step - loss: 0.0385 - accuracy: 0.9870 - val_loss: 1.3880 - val_accuracy: 0.7602
+Epoch 39/40
+391/391 [==============================] - 7s 18ms/step - loss: 0.0345 - accuracy: 0.9887 - val_loss: 1.3585 - val_accuracy: 0.7610
+Epoch 40/40
+391/391 [==============================] - 7s 18ms/step - loss: 0.0324 - accuracy: 0.9897 - val_loss: 1.2996 - val_accuracy: 0.7596
+<tensorflow.python.keras.callbacks.History at 0x253f8175d08>
